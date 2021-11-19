@@ -1,4 +1,5 @@
 //GOUMDEBE NGASSIA JOSEPH FRANCK
+//Sequentiel
 
 #include <stdio.h>
 #include <stdlib.h>
